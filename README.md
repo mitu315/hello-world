@@ -1,6 +1,8 @@
 # hello-world
 My first Github repository
 
-hi there,
+Hi there,
 
-I am trying to learn front-end web development, so I am here to create my github page.
+I am learning front-end web development, so I think that I need to create my github page first.
+
+Yan
